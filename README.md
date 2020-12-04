@@ -1,11 +1,5 @@
 # FEATURE_ENGINEERING
 
-**Многоклассовая классификация (80 классов).** 
-
-Основная задача **Feature engineering**.
-
-Табличные данные.
-
 **Multiclass classification (80 classes).**
 
 The main task is **Feature engineering**.
@@ -14,9 +8,7 @@ The main task is **Feature engineering**.
 
 
 
-Описание данных.
-
-Data description.
+### Data description.
 
 | ***hash_inn_kt*** | Обезличенный ИНН отправителя (from)     |
 | ----------------- | --------------------------------------- |
